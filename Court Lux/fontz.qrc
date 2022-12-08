@@ -1,0 +1,5 @@
+<RCC>
+    <qresource prefix="/fontz">
+        <file>Helvetica.ttf</file>
+    </qresource>
+</RCC>
